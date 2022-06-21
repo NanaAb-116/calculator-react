@@ -1,0 +1,41 @@
+.button {
+  cursor: pointer;
+}
+.ash {
+  background-color: #989aaa;
+  border-bottom: 1px solid #989aaa;
+  height: 4rem;
+}
+
+.ash {
+  background-color: #ebe7e7;
+  border-bottom: 1px solid #989aaa41;
+  border-right: 1px solid #989aaa41;
+  height: 3.5rem;
+}
+
+.symb {
+  background-color: #f5923d;
+  border-bottom: 1px solid #989aaa41;
+  height: 3.5rem;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+  font-size: xx-large;
+  color: rgba(0, 0, 0, 0.699);
+}
+
+.gray {
+  background-color: gray;
+}
+.gray p {
+  text-align: right;
+  color: white;
+  padding-top: 0.5rem;
+}
+
+.symb p {
+  color: white;
+}
